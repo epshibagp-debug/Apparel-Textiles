@@ -1,0 +1,6 @@
+{
+  "name": "TextileCraft - Web Project Planning & Strategy Suite",
+  "description": "Comprehensive Week 1 Web Project Planning & Strategy interactive roadmap and Word (.docx) document generator for an apparel and textiles digital platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
